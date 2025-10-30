@@ -1,4 +1,3 @@
-
 # Zia - Online Marketplace for Services
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/CS3203-Project/Deployed/releases)
@@ -6,7 +5,18 @@
 [![React](https://img.shields.io/badge/React-19+-blue.svg)](https://reactjs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-11+-red.svg)](https://nestjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue.svg)](https://www.postgresql.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue.svg)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-6+-green.svg)](https://www.prisma.io/)
+[![Stripe](https://img.shields.io/badge/Stripe-19+-purple.svg)](https://stripe.com/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-4+-black.svg)](https://socket.io/)
+[![AWS](https://img.shields.io/badge/AWS-S3%20%26%20SES-orange.svg)](https://aws.amazon.com/)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-API-red.svg)](https://developers.google.com/maps)
 [![License](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+[![GitHub stars](https://img.shields.io/github/stars/CS3203-Project/Deployed_backend.svg)](https://github.com/CS3203-Project/Deployed_backend/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CS3203-Project/Deployed_backend.svg)](https://github.com/CS3203-Project/Deployed_backend/network)
+[![GitHub issues](https://img.shields.io/github/issues/CS3203-Project/Deployed_backend.svg)](https://github.com/CS3203-Project/Deployed_backend/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/CS3203-Project/Deployed_backend.svg)](https://github.com/CS3203-Project/Deployed_backend/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CS3203-Project/Deployed_backend.svg)](https://github.com/CS3203-Project/Deployed_backend/commits/main)
 
 ## Overview of the Project
 
