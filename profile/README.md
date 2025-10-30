@@ -173,4 +173,16 @@ This project is licensed under the ISC License.
 
 ## Contact
 
-For any questions or support, please contact the development team.
+For any questions or support, please contact the development team:
+
+### Developers
+- **Umesha Jayakody**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://lk.linkedin.com/in/umesha-jayakody)  
+  LinkedIn Profile: [umesha-jayakody](https://lk.linkedin.com/in/umesha-jayakody)
+
+- **Yasith Imalka**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://lk.linkedin.com/in/yasith-imalka-31b6a32a1)  
+  LinkedIn Profile: [yasith-imalka-31b6a32a1](https://lk.linkedin.com/in/yasith-imalka-31b6a32a1)
+
+- **Kavisha Indunil**  
+
