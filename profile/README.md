@@ -59,6 +59,15 @@ The primary deliverable is a responsive web application. This platform will feat
 
 *Click the YouTube badge above to watch the demo video (starts at 7 seconds).* 
 
+## Any Device
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0;"><img src="https://i.ibb.co/Q7CzWtYv/i-Phone-13-PRO-zia-tgsix-ondigitalocean-app-1.png" alt="Mobile View" style="background-color: black; padding: 10px;"></td>
+    <td style="border: none; padding: 0;"><img src="https://i.ibb.co/mr2dKx6Y/i-Pad-PRO-11-zia-tgsix-ondigitalocean-app.png" alt="Tablet View" style="background-color: black; padding: 10px;"></td>
+    <td style="border: none; padding: 0;"><img src="https://i.ibb.co/VdGDcw7/Macbook-Air-zia-tgsix-ondigitalocean-app.png" alt="PC View" style="background-color: black; padding: 10px;"></td>
+  </tr>
+</table>
+
 ## Project Structure
 
 This repository contains three main components:
