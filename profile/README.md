@@ -53,6 +53,12 @@ The primary deliverable is a responsive web application. This platform will feat
 - Secure payment gateway for handling transactions.
 - A comprehensive admin dashboard for system oversight.
 
+## Demo Video
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SZz-ABRm8c8&t=7s&autoplay=1)
+
+*Click the YouTube badge above to watch the demo video (starts at 7 seconds).* 
+
 ## Project Structure
 
 This repository contains three main components:
@@ -72,8 +78,8 @@ This repository contains three main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CS3203-Project/Deployed.git
-   cd Deployed
+   git clone https://github.com/CS3203-Project/Repo_name.git
+   cd Repo_name
    ```
 
 2. Set up the backend:
